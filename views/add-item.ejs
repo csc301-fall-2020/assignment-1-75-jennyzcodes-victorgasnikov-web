@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <title>Add item</title>
+</head>
+
+<body>
+    <form action="/add" method="POST" role="form" class="row" style="margin-left: 50px;">
+          <div class="form-group col-md-2">
+            <label for="name">Item name</label>
+            <input type="text" class="form-control" id="name" name="name" placeholder="Name">
+          </div>
+          <div class="form-group col-md-2">
+            <label for="quantity">Item quantity</label>
+            <input type="number" class="form-control" id="quantity" name="quantity">
+          </div>
+          <div class="form-group col-md-2">
+            <label for="quantity">Item price</label>
+            <input type="number" class="form-control" id="price" name="price">
+          </div>
+          <div class="form-group col-md-1">
+            <label for="sub"></label>
+            <button type="submit" id="sub" class="form-control btn btn-primary">Add item</button>
+          </div>
+    </form>
+
+</body>
+
+</html>
