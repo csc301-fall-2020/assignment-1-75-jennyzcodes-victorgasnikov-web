@@ -1,0 +1,83 @@
+Team 75
+Jenny Zhang
+Victor Gasnikov
+
+
+
+
+
+
+Final Grade: 84
+
+-------------------
+-------------------
+
+
+
+A.	Web App Grade: 40
+---------------------
+
+1-	Report: 30
+A fairly reasonable comparison between alternative technologies for web development. The report almost addresses all the expectations of the assignment.
+
+
+ 
+2-	Application:
+
+- Final Web Page:  8
+Web app deployed on AmazonAWS.
+No server-side part. Mainly a client-side app.
+
+
+
+
+- Unit Test: 0
+No unit tests included.
+
+- Instructions on how to reproduce: 2
+Not enough information about how to work with the project as a developer.
+More details about how to set up and run the project. What to install form where ...
+
+
+ 
+  
+3-	Pipeline (bonus): 0
+CircleCI is no set up and used in the project.
+
+
+
+
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------
+
+
+B.	Mobile App Grade: 44 
+-------------------------
+1-	Report: 30
+
+A fairly reasonable comparison between alternative technologies for mobile development. The report almost addresses all the expectations of the assignment.
+
+
+ 
+2-	Application: 
+
+- Final APK: 8
+No Final APK released.
+Video demo available.
+
+
+
+
+
+- Unit Test:  3
+A few unit tests included.
+
+
+- Instructions on how to reproduce: 3
+Reasonable information about how to work with the project as a developer.
+More details about how to set up and run the project. What to install form where which version?
+
+
+3-	Pipeline (bonus): 0
+CircleCI is not set up and used in the repository.
